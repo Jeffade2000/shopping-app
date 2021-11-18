@@ -3,8 +3,8 @@ import images from "./images";
 export const DATA = [
     {
         id: 0,
-        name: "Nike Metcon 4",
-        img: images.shirt1,
+        name: "Watch 1",
+        img: images.Watch1,
         bgColor: "#414045",
         type: "TRAINING",
         price: "$119",
@@ -12,8 +12,8 @@ export const DATA = [
     },
     {
         id: 1,
-        name: "Nike Metcon 6",
-        img: images.shirt2,
+        name: "Watch 2",
+        img: images.Watch2,
         bgColor: "#4EABA6",
         type: "TRAINING",
         price: "$135",
@@ -21,8 +21,8 @@ export const DATA = [
     },
     {
         id: 2,
-        name: "Nike Metcon 5",
-        img: images.shirt3,
+        name: "Watch 3",
+        img: images.Watch3,
         bgColor: "#2B4660",
         type: "TRAINING",
         price: "$124",
@@ -30,8 +30,8 @@ export const DATA = [
     },
     {
         id: 3,
-        name: "Nike Metcon 3",
-        img: images.shirt4,
+        name: "Watch 4",
+        img: images.Watch4,
         bgColor: "#A69285",
         type: "TRAINING",
         price: "$99",
@@ -39,8 +39,8 @@ export const DATA = [
     },
     {
         id: 4,
-        name: "Nike Metcon Free",
-        img: images.shirt5,
+        name: "Watch 5",
+        img: images.Watch5,
         bgColor: "#A02E41",
         type: "TRAINING",
         price: "$108",
@@ -48,8 +48,8 @@ export const DATA = [
     },
     {
         id: 5,
-        name: "Nike Air Zoom Pegasus 36",
-        img: images.shirt6,
+        name: "Watch 6",
+        img: images.Watch6,
         bgColor: "#BF012C",
         type: "RUNNING",
         price: "$186",

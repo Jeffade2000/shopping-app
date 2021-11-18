@@ -86,7 +86,7 @@ export default function Login({ navigation }) {
           },
         ]}
       >
-        <Text style={{ ...FONTS.h1, color: COLORS.secondary }}>Coodous' Apparel</Text>
+        <Text style={{ ...FONTS.h1, color: COLORS.secondary }}>Jefferson watches</Text>
         <View style={{ marginVertical: 40 }}>
           <View style={{ marginVertical: 5 }}>
             <Text style={styles.inputLabel}>Email</Text>
